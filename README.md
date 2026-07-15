@@ -1,6 +1,8 @@
 # ecommerce-data-analysis
-A Microsoft Excel data analysis project exploring a large e-commerce dataset. Built relationships using Power Pivot, analyzed KPIs with Pivot Tables, and generated business insights on sales, customers, products, regions, and payment methods.
+This is a Microsoft Excel data analysis project exploring a large e-commerce dataset. Built relationships using Power Pivot, analyzed KPIs with Pivot Tables, and generated business insights on sales, customers, products, regions, and payment methods.
 This project presents a comprehensive sales analysis of a large-scale e-commerce dataset using Microsoft Excel. The goal was to transform raw transactional data into actionable business insights by answering key business questions related to sales performance, customer behavior, product performance, geographic trends, and payment methods.
+
+Here is the link to the complete dataset : https://www.kaggle.com/datasets/mmohaiminulislam/ecommerce-data-analysis
 
 The dataset follows a star schema data warehouse design, consisting of one fact table and multiple dimension tables (Customers, Products, Stores, Time, and Transactions). Relationships were created using Excel's Data Model, enabling analysis across multiple tables through Pivot Tables and Pivot Charts.
 
